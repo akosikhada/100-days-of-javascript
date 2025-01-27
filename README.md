@@ -40,4 +40,6 @@ Here is the list of projects from Day 1 to Day 100:
 
 #### Day 17: Password Generator
 
-#### Day 18: **_In Progress_**
+#### Day 18: Image Color Picker
+
+#### Day 19: **_In Progress_**
