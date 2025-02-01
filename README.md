@@ -42,4 +42,6 @@ Here is the list of projects from Day 1 to Day 100:
 
 #### Day 18: Image Color Picker
 
-#### Day 19: **_In Progress_**
+#### Day 19: Tetris Game
+
+#### Day 20: **_In Progress_**
