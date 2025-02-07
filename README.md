@@ -44,4 +44,4 @@ Here is the list of projects from Day 1 to Day 100:
 
 #### Day 19: Tetris Game
 
-#### Day 20: **_In Progress_**
+#### Day 20: Tip Calculator
