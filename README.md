@@ -10,29 +10,29 @@ A collection of JavaScript projects completed during my 100 Days of JavaScript c
 
 ## Projects
 
-| Day | Project Name           | Description                                     |
-| --- | ---------------------- | ----------------------------------------------- |
-| 1   | New Year Countdown     | A countdown timer to New Year's Day.            |
-| 2   | Analog & Digital Clock | Displays both analog and digital time.          |
-| 3   | Snake Game             | A classic Snake game implementation.            |
-| 4   | Ping Pong Game         | A two-player Ping Pong game.                    |
-| 5   | Calculator             | A basic calculator application.                 |
-| 6   | Weather Application    | Fetches and displays weather information.       |
-| 7   | To Do List             | A simple to-do list application.                |
-| 8   | Tic Tac Toe Game       | A Tic Tac Toe game.                             |
-| 9   | BMI Calculator         | Calculates Body Mass Index.                     |
-| 10  | Currency Converter     | Converts currencies based on current rates.     |
-| 11  | BMR Calculator         | Calculates Basal Metabolic Rate.                |
-| 12  | Superhero Search       | Searches for superhero information.             |
-| 13  | Expense Tracker        | Tracks expenses and provides summaries.         |
-| 14  | Typing Speed           | Measures typing speed and accuracy.             |
-| 15  | Face Detector          | Detects faces in images/videos (if applicable). |
-| 16  | Quote Generator        | Generates random quotes.                        |
-| 17  | Password Generator     | Generates strong passwords.                     |
-| 18  | Image Color Picker     | Picks colors from an image.                     |
-| 19  | Tetris Game            | A Tetris game implementation.                   |
-| 20  | Tip Calculator         | Calculates the tip amount.                      |
-| 21  | _In Progress_          | Project currently under development.            |
+| Day | Project Name           | Description                                       |
+| --- | ---------------------- | ------------------------------------------------- |
+| 1   | New Year Countdown     | A countdown timer to New Year's Day.              |
+| 2   | Analog & Digital Clock | Displays both analog and digital time.            |
+| 3   | Snake Game             | A classic Snake game implementation.              |
+| 4   | Ping Pong Game         | A two-player Ping Pong game.                      |
+| 5   | Calculator             | A basic calculator application.                   |
+| 6   | Weather Application    | Fetches and displays weather information.         |
+| 7   | To Do List             | A simple to-do list application.                  |
+| 8   | Tic Tac Toe Game       | A Tic Tac Toe game.                               |
+| 9   | BMI Calculator         | Calculates Body Mass Index.                       |
+| 10  | Currency Converter     | Converts currencies based on current rates.       |
+| 11  | BMR Calculator         | Calculates Basal Metabolic Rate.                  |
+| 12  | Superhero Search       | Searches for superhero information.               |
+| 13  | Expense Tracker        | Tracks expenses and provides summaries.           |
+| 14  | Typing Speed           | Measures typing speed and accuracy.               |
+| 15  | Face Detector          | Detects faces in images/videos (if applicable).   |
+| 16  | Quote Generator        | Generates random quotes.                          |
+| 17  | Password Generator     | Generates strong passwords.                       |
+| 18  | Image Color Picker     | Picks colors from an image.                       |
+| 19  | Tetris Game            | A Tetris game implementation.                     |
+| 20  | Tip Calculator         | Calculates the tip amount.                        |
+| 21  | Image Slider           | Image Slider With Auto-sliding And Full Controls. |
 
 ## Technologies Used
 
