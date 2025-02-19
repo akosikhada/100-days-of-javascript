@@ -33,6 +33,7 @@ A collection of JavaScript projects completed during my 100 Days of JavaScript c
 | 19  | Tetris Game            | A Tetris game implementation.                     |
 | 20  | Tip Calculator         | Calculates the tip amount.                        |
 | 21  | Image Slider           | Image Slider With Auto-sliding And Full Controls. |
+| 22  | _In Progress_          | Project currently under development.              |
 
 ## Technologies Used
 
