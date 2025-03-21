@@ -35,6 +35,7 @@ A collection of JavaScript projects completed during my 100 Days of JavaScript c
 | 21  | Image Slider             | Image Slider With Auto-sliding And Full Controls.            |
 | 22  | Rock Paper Scissors Game | Modern Rock Paper Scissors game a SaaS-like user experience. |
 | 23  | Color Palette Generator  | Generates color palette based on the selected color.         |
+| 24  | Music Player App         | A music player with a modern UI.                             |
 
 ## Technologies Used
 
