@@ -1,11 +1,5 @@
 # 100 Days of JavaScript
 
-<div align="center">
-  <img src="https://img.shields.io/badge/projects-24_completed-success?style=for-the-badge" alt="Projects Completed">
-  <img src="https://img.shields.io/badge/status-completed-blue?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License">
-</div>
-
 <p align="center">A collection of JavaScript projects showcasing my progress and growth during the 100 Days of JavaScript challenge. From interactive games to practical applications, this repository demonstrates my proficiency in modern web development technologies.</p>
 
 ## 📂 Projects
