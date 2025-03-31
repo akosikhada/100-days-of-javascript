@@ -1,10 +1,10 @@
 # 100 Days of JavaScript
 
-<p align="center">A collection of JavaScript projects showcasing my progress and growth during the 100 Days of JavaScript challenge. From interactive games to practical applications, this repository demonstrates my proficiency in modern web development technologies.</p>
+A collection of JavaScript projects showcasing my progress and growth during the 100 Days of JavaScript challenge. From interactive games to practical applications, this repository demonstrates my proficiency in modern web development technologies.
 
 ## 📂 Projects
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <th>Day</th>
@@ -252,7 +252,7 @@
 
 ## 💻 Technologies
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <th>Technology</th>
