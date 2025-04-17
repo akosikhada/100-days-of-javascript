@@ -247,6 +247,16 @@ A collection of JavaScript projects showcasing my progress and growth during the
         <img src="assets/tailwind.png" width="20">
       </td>
     </tr>
+    <tr>
+      <td align="center">25</td>
+      <td><strong>Text Editor</strong></td>
+      <td>Rich text editor with formatting tools and text styling options.</td>
+      <td align="center">
+        <img src="assets/html.png" width="20"> 
+        <img src="assets/css.png" width="20"> 
+        <img src="assets/js.png" width="20">
+      </td>
+    </tr>
   </table>
 </div>
 
