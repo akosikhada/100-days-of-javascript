@@ -136,8 +136,9 @@ A collection of JavaScript projects showcasing my progress and growth during the
       <td><strong>Expense Tracker</strong></td>
       <td>Financial management app with expense categorization.</td>
       <td align="center">
-        <img src="assets/react.png" width="20"> 
-        <img src="assets/tailwind.png" width="20">
+        <img src="assets/html.png" width="20"> 
+        <img src="assets/css.png" width="20"> 
+        <img src="assets/js.png" width="20">
       </td>
     </tr>
     <tr>
@@ -255,6 +256,15 @@ A collection of JavaScript projects showcasing my progress and growth during the
         <img src="assets/html.png" width="20"> 
         <img src="assets/css.png" width="20"> 
         <img src="assets/js.png" width="20">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">26</td>
+      <td><strong>2048 Game</strong></td>
+      <td>Interactive 2048 puzzle game with modern UI, animations, and mobile controls.</td>
+      <td align="center">
+        <img src="assets/react.png" width="20"> 
+        <img src="assets/tailwind.png" width="20">
       </td>
     </tr>
   </table>
