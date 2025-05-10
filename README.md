@@ -267,6 +267,16 @@ A collection of JavaScript projects showcasing my progress and growth during the
         <img src="assets/tailwind.png" width="20">
       </td>
     </tr>
+    <tr>
+      <td align="center">27</td>
+      <td><strong>JSON Reader App</strong></td>
+      <td>Interactive JSON viewer that allows users to parse, display, and navigate JSON data with custom formatting.</td>
+      <td align="center">
+        <img src="assets/html.png" width="20"> 
+        <img src="assets/css.png" width="20"> 
+        <img src="assets/js.png" width="20">
+      </td>
+    </tr>
   </table>
 </div>
 
