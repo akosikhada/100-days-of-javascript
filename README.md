@@ -1,345 +1,104 @@
 # 100 Days of JavaScript
 
-A collection of JavaScript projects showcasing my progress and growth during the 100 Days of JavaScript challenge. From interactive games to practical applications, this repository demonstrates my proficiency in modern web development technologies.
-
-## 📂 Projects
-
-<div align="left">
-  <table>
-    <tr>
-      <th>Day</th>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Tech Stack</th>
-    </tr>
-    <tr>
-      <td align="center">01</td>
-      <td><strong>New Year Countdown</strong></td>
-      <td>A countdown timer to New Year's Day with dynamic animations.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">02</td>
-      <td><strong>Analog & Digital Clock</strong></td>
-      <td>Elegant clock displaying both analog and digital time formats.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">03</td>
-      <td><strong>Snake Game</strong></td>
-      <td>Classic Snake game with modern UI and scoring system.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">04</td>
-      <td><strong>Ping Pong Game</strong></td>
-      <td>Two-player Ping Pong game with real-time physics.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">05</td>
-      <td><strong>Calculator</strong></td>
-      <td>Interactive calculator with arithmetic operations.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">06</td>
-      <td><strong>Weather Application</strong></td>
-      <td>Fetches and displays real-time weather information.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">07</td>
-      <td><strong>To Do List</strong></td>
-      <td>Task management application with CRUD operations.</td>
-      <td align="center">
-        <img src="assets/react.png" width="20"> 
-        <img src="assets/tailwind.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">08</td>
-      <td><strong>Tic Tac Toe Game</strong></td>
-      <td>Interactive Tic Tac Toe game with win detection.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">09</td>
-      <td><strong>BMI Calculator</strong></td>
-      <td>Calculates Body Mass Index with health recommendations.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10</td>
-      <td><strong>Currency Converter</strong></td>
-      <td>Real-time currency conversion with latest exchange rates.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11</td>
-      <td><strong>BMR Calculator</strong></td>
-      <td>Calculates Basal Metabolic Rate with personalized insights.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12</td>
-      <td><strong>Superhero Search</strong></td>
-      <td>Search engine for superhero information and statistics.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">13</td>
-      <td><strong>Expense Tracker</strong></td>
-      <td>Financial management app with expense categorization.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14</td>
-      <td><strong>Typing Speed</strong></td>
-      <td>Measures typing speed and accuracy with detailed metrics.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15</td>
-      <td><strong>Face Detector</strong></td>
-      <td>Detects and highlights faces in images using ML.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16</td>
-      <td><strong>Quote Generator</strong></td>
-      <td>Generates inspirational quotes with sharing capabilities.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">17</td>
-      <td><strong>Password Generator</strong></td>
-      <td>Creates secure passwords with customizable parameters.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">18</td>
-      <td><strong>Image Color Picker</strong></td>
-      <td>Extracts color values from uploaded images.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">19</td>
-      <td><strong>Tetris Game</strong></td>
-      <td>Classic Tetris game with modern controls and scoring.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">20</td>
-      <td><strong>Tip Calculator</strong></td>
-      <td>Calculates tip amounts with customizable percentages.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">21</td>
-      <td><strong>Image Slider</strong></td>
-      <td>Image carousel with auto-sliding and manual controls.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">22</td>
-      <td><strong>Rock Paper Scissors</strong></td>
-      <td>Modern Rock Paper Scissors game with SaaS-like UX.</td>
-      <td align="center">
-        <img src="assets/react.png" width="20"> 
-        <img src="assets/tailwind.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">23</td>
-      <td><strong>Color Palette Generator</strong></td>
-      <td>Generates harmonious color palettes from selected colors.</td>
-      <td align="center">
-        <img src="assets/react.png" width="20"> 
-        <img src="assets/tailwind.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">24</td>
-      <td><strong>Music Player App</strong></td>
-      <td>Feature-rich music player with modern UI and controls.</td>
-      <td align="center">
-        <img src="assets/react.png" width="20"> 
-        <img src="assets/tailwind.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">25</td>
-      <td><strong>Text Editor</strong></td>
-      <td>Rich text editor with formatting tools and text styling options.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">26</td>
-      <td><strong>2048 Game</strong></td>
-      <td>Interactive 2048 puzzle game with modern UI, animations, and mobile controls.</td>
-      <td align="center">
-        <img src="assets/react.png" width="20"> 
-        <img src="assets/tailwind.png" width="20">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">27</td>
-      <td><strong>JSON Reader App</strong></td>
-      <td>Interactive JSON viewer that allows users to parse, display, and navigate JSON data with custom formatting.</td>
-      <td align="center">
-        <img src="assets/html.png" width="20"> 
-        <img src="assets/css.png" width="20"> 
-        <img src="assets/js.png" width="20">
-      </td>
-    </tr>
-  </table>
+<div align="center">
+   <img src="assets/js.png" width="40" alt="JavaScript">
+   <img src="assets/html.png" width="40" alt="HTML">
+   <img src="assets/css.png" width="40" alt="CSS">
+   <img src="assets/react.png" width="40" alt="React">
+   <img src="assets/tailwind.png" width="40" alt="Tailwind">
 </div>
 
-## 💻 Technologies
+## 📝 Overview
 
-<div align="left">
-  <table>
-    <tr>
-      <th>Technology</th>
-      <th>Description</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="assets/html.png" alt="HTML" title="HTML" width="40" height="40"><br>
-        <strong>HTML5</strong>
-      </td>
-      <td>Used for structuring web content with semantic elements, providing the foundation for all web projects.</td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="assets/css.png" alt="CSS" title="CSS" width="40" height="40"><br>
-        <strong>CSS3</strong>
-      </td>
-      <td>Responsible for styling and layout, implementing responsive design principles and animations throughout the projects.</td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="assets/js.png" alt="JavaScript" title="JavaScript" width="40" height="40"><br>
-        <strong>JavaScript</strong>
-      </td>
-      <td>Core programming language used for implementing interactivity, DOM manipulation, and application logic.</td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="assets/react.png" alt="React" title="React" width="40" height="40"><br>
-        <strong>React</strong>
-      </td>
-      <td>JavaScript library for building user interfaces with component-based architecture, used in more complex projects.</td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="assets/tailwind.png" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"><br>
-        <strong>Tailwind CSS</strong>
-      </td>
-      <td>Utility-first CSS framework that streamlines styling with pre-defined classes for rapid UI development.</td>
-    </tr>
-  </table>
-</div>
+A growing collection of JavaScript projects created as part of the 100 Days of Code challenge. Each project tackles different concepts from basic DOM manipulation to complex game development. Designed to demonstrate JavaScript's versatility through hands-on, practical applications.
 
-## 🌟 Key Features
+## ✨ Features
 
-- **Diverse Project Range**: From games to practical tools and utilities
-- **Progressive Complexity**: Projects demonstrate increasing technical sophistication
-- **Modern Web Technologies**: Utilizes contemporary frameworks and libraries
-- **Responsive Design**: Mobile-first approach for optimal viewing across devices
-- **Clean Code**: Well-structured and maintainable codebase
+- **Diverse Projects**: Growing collection of standalone applications working towards the 100-day goal
+- **Practical Applications**: Real-world use cases like expense trackers, weather apps, and calculators
+- **Interactive Games**: Multiple JavaScript-powered games including Snake, Tetris, Tic Tac Toe, and 2048
+- **Responsive Design**: Mobile-friendly layouts across all projects
+- **Vanilla JavaScript**: Focus on core JavaScript concepts without heavy frameworks
+- **Progressive Complexity**: Projects arranged from basic to advanced concepts
+
+## 🛠️ Tech Stack
+
+- **JavaScript**: Core programming language for all projects
+- **HTML5**: Structure and content
+- **CSS3**: Styling and animations
+- **React**: Used in selected advanced projects
+- **Tailwind CSS**: Utilized for modern UI components
+- **Various APIs**: Integration with external services
+
+## 🚀 Setup
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/akosikhada/100-days-of-javascript.git
+   cd 100-days-of-javascript
+   ```
+
+2. **No installation required!**
+
+   - All projects are built with vanilla JavaScript, HTML, and CSS
+   - No dependencies or build tools needed
+
+3. **Open any project**
+   - Navigate to the project folder of your choice
+   - Open the `index.html` file in your browser
+
+## 📋 Usage
+
+Each project folder contains its own implementation with the following structure:
+
+- `index.html` - The main HTML file
+- `style.css` - Styling for the project
+- `script.js` - JavaScript functionality
+
+To run any project:
+
+1. Open the project folder
+2. **Important**: You may need to rename the folder to remove special characters like "#" and "-" for proper functionality
+3. Double-click on the `index.html` file or open it with your preferred browser
+4. Interact with the application as intended
+
+## 📂 Project List
+
+| Day | Project                  | Description                                                 |
+| --- | ------------------------ | ----------------------------------------------------------- |
+| 01  | New Year Countdown       | Interactive countdown timer to the next new year            |
+| 02  | Analog and Digital Clock | Real-time clock with both analog and digital displays       |
+| 03  | Snake Game               | Classic snake game with keyboard controls                   |
+| 04  | Ping Pong Game           | Two-player ping pong game with score tracking               |
+| 05  | Calculator               | Fully functional calculator with basic operations           |
+| 06  | Weather Application      | Weather forecast app using external weather API             |
+| 07  | To Do List               | Task management app with add, edit and delete functionality |
+| 08  | Tic Tac Toe Game         | Classic X and O game for two players                        |
+| 09  | BMI Calculator           | Body Mass Index calculator with health indicators           |
+| 10  | Currency Converter       | Real-time currency conversion tool                          |
+| 11  | BMR Calculator           | Basal Metabolic Rate calculator for fitness tracking        |
+| 12  | Superhero Search         | Search engine for superhero information                     |
+| 13  | Expense Tracker          | Personal finance tracker with categorization                |
+| 14  | Typing Speed Test        | Tool to measure typing speed and accuracy                   |
+| 15  | Face Detector            | Image processing app for facial recognition                 |
+| 16  | Quote Generator          | Random inspirational quote generator                        |
+| 17  | Password Generator       | Secure password creation tool with options                  |
+| 18  | Image Color Picker       | Tool to extract color values from images                    |
+| 19  | Tetris Game              | Classic block-stacking puzzle game                          |
+| 20  | Tip Calculator           | Restaurant bill and tip calculator                          |
+| 21  | Image Slider             | Responsive image carousel with controls                     |
+| 22  | Rock Paper Scissors Game | Interactive game against the computer                       |
+| 23  | Color Palette Generator  | Tool to create harmonious color schemes                     |
+| 24  | Music Player App         | Audio player with playlist functionality                    |
+| 25  | Text Editor              | Simple text editor with formatting options                  |
+| 26  | 2048 Game                | Popular sliding number puzzle game                          |
+| 27  | JSON Reader App          | Tool for viewing and parsing JSON data                      |
 
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+## 🤝 Contributing
 
-<div align="center">
-  <h3>Built with ❤️ by <a href="https://github.com/akosikhada">akosikhada</a></h3>
-</div>
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/akosikhada/100-days-of-javascript/issues).
