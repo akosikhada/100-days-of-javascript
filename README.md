@@ -40,14 +40,14 @@ The 100 Days of JavaScript is a code collection challenge where you build a new 
    cd 100-days-of-javascript
    ```
 
-2. **No installation required!**
+2. **Project setup depends on the folder:**
 
-   - All projects are built with vanilla JavaScript, HTML, and CSS
-   - No dependencies or build tools needed
+   - For most projects (vanilla JavaScript, HTML, CSS): No installation needed. Just open `index.html` in your browser.
+   - For React/Tailwind projects: Run `npm install` in the project folder, then start with `npm run dev`.
 
 3. **Open any project**
    - Navigate to the project folder of your choice
-   - Open the `index.html` file in your browser
+   - Follow the setup instructions in that folder's README for details
 
 ## 📋 Usage
 
