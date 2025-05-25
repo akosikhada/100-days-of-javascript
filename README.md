@@ -95,6 +95,7 @@ To run any project:
 | 25  | Text Editor              | Simple text editor with formatting options                  |
 | 26  | 2048 Game                | Popular sliding number puzzle game                          |
 | 27  | JSON Reader App          | Tool for viewing and parsing JSON data                      |
+| 28  | Palindrome Checker       | Tool to check if text reads the same forward and backward   |
 
 ## 📝 License
 
