@@ -94,6 +94,7 @@ html {
     #722f37,
     #bdb5d5
   );
+  background-clip: text;
   -webkit-background-clip: text;
   color: transparent;
   font-size: 6.2em;
