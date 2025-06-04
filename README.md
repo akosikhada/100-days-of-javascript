@@ -96,6 +96,7 @@ To run any project:
 | 26  | 2048 Game                | Popular sliding number puzzle game                          |
 | 27  | JSON Reader App          | Tool for viewing and parsing JSON data                      |
 | 28  | Palindrome Checker       | Tool to check if text reads the same forward and backward   |
+| 29  | Pyramid Generator        | Customizable ASCII art pyramid generator                    |
 
 ## 📝 License
 
