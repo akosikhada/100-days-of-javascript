@@ -98,6 +98,7 @@ To run any project:
 | 28  | Palindrome Checker       | Tool to check if text reads the same forward and backward   |
 | 29  | Pyramid Generator        | Customizable ASCII art pyramid generator                    |
 | 30  | Gradebook App            | Student and teacher interface for grade management          |
+| 31  | Dragon Repeller          | Text-based RPG adventure game with combat system            |
 
 ## 📝 License
 
