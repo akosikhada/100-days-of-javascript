@@ -100,6 +100,7 @@ To run any project:
 | 30  | Gradebook App              | Student and teacher interface for grade management          |
 | 31  | Dragon Repeller            | Text-based RPG adventure game with combat system            |
 | 32  | Background Color Generator | Professional color generator with palette creation system   |
+| 33  | Calorie Counter            | Daily nutrition tracker with meal breakdown and insights    |
 
 ## 📝 License
 
