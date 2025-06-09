@@ -102,6 +102,7 @@ To run any project:
 | 32  | Background Color Generator           | Professional color generator with palette creation system                  |
 | 33  | Calorie Counter                      | Daily nutrition tracker with meal breakdown and insights                   |
 | 34  | Rock, Paper, Scissors, Lizard, Spock | Expanded version of the classic game with modern UI and additional options |
+| 35  | Date Formatter                       | Advanced date and time utility with multiple formats and real-time display |
 
 ## 📝 License
 
