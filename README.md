@@ -103,6 +103,7 @@ To run any project:
 | 33  | Calorie Counter                      | Daily nutrition tracker with meal breakdown and insights                   |
 | 34  | Rock, Paper, Scissors, Lizard, Spock | Expanded version of the classic game with modern UI and additional options |
 | 35  | Date Formatter                       | Advanced date and time utility with multiple formats and real-time display |
+| 36  | Football Team Cards                  | Interactive display of team player cards with filtering and statistics     |
 
 ## 📝 License
 
