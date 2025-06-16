@@ -66,44 +66,45 @@ To run any project:
 
 ## 📂 Project List
 
-| Day | Project                              | Description                                                                |
-| --- | ------------------------------------ | -------------------------------------------------------------------------- |
-| 01  | New Year Countdown                   | Interactive countdown timer to the next new year                           |
-| 02  | Analog and Digital Clock             | Real-time clock with both analog and digital displays                      |
-| 03  | Snake Game                           | Classic snake game with keyboard controls                                  |
-| 04  | Ping Pong Game                       | Two-player ping pong game with score tracking                              |
-| 05  | Calculator                           | Fully functional calculator with basic operations                          |
-| 06  | Weather Application                  | Weather forecast app using external weather API                            |
-| 07  | To Do List                           | Task management app with add, edit and delete functionality                |
-| 08  | Tic Tac Toe Game                     | Classic X and O game for two players                                       |
-| 09  | BMI Calculator                       | Body Mass Index calculator with health indicators                          |
-| 10  | Currency Converter                   | Real-time currency conversion tool                                         |
-| 11  | BMR Calculator                       | Basal Metabolic Rate calculator for fitness tracking                       |
-| 12  | Superhero Search                     | Search engine for superhero information                                    |
-| 13  | Expense Tracker                      | Personal finance tracker with categorization                               |
-| 14  | Typing Speed Test                    | Tool to measure typing speed and accuracy                                  |
-| 15  | Face Detector                        | Image processing app for facial recognition                                |
-| 16  | Quote Generator                      | Random inspirational quote generator                                       |
-| 17  | Password Generator                   | Secure password creation tool with options                                 |
-| 18  | Image Color Picker                   | Tool to extract color values from images                                   |
-| 19  | Tetris Game                          | Classic block-stacking puzzle game                                         |
-| 20  | Tip Calculator                       | Restaurant bill and tip calculator                                         |
-| 21  | Image Slider                         | Responsive image carousel with controls                                    |
-| 22  | Rock Paper Scissors Game             | Interactive game against the computer                                      |
-| 23  | Color Palette Generator              | Tool to create harmonious color schemes                                    |
-| 24  | Music Player App                     | Audio player with playlist functionality                                   |
-| 25  | Text Editor                          | Simple text editor with formatting options                                 |
-| 26  | 2048 Game                            | Popular sliding number puzzle game                                         |
-| 27  | JSON Reader App                      | Tool for viewing and parsing JSON data                                     |
-| 28  | Palindrome Checker                   | Tool to check if text reads the same forward and backward                  |
-| 29  | Pyramid Generator                    | Customizable ASCII art pyramid generator                                   |
-| 30  | Gradebook App                        | Student and teacher interface for grade management                         |
-| 31  | Dragon Repeller                      | Text-based RPG adventure game with combat system                           |
-| 32  | Background Color Generator           | Professional color generator with palette creation system                  |
-| 33  | Calorie Counter                      | Daily nutrition tracker with meal breakdown and insights                   |
-| 34  | Rock, Paper, Scissors, Lizard, Spock | Expanded version of the classic game with modern UI and additional options |
-| 35  | Date Formatter                       | Advanced date and time utility with multiple formats and real-time display |
-| 36  | Football Team Cards                  | Interactive display of team player cards with filtering and statistics     |
+| Day | Project                              | Description                                                                          |
+| --- | ------------------------------------ | ------------------------------------------------------------------------------------ |
+| 01  | New Year Countdown                   | Interactive countdown timer to the next new year                                     |
+| 02  | Analog and Digital Clock             | Real-time clock with both analog and digital displays                                |
+| 03  | Snake Game                           | Classic snake game with keyboard controls                                            |
+| 04  | Ping Pong Game                       | Two-player ping pong game with score tracking                                        |
+| 05  | Calculator                           | Fully functional calculator with basic operations                                    |
+| 06  | Weather Application                  | Weather forecast app using external weather API                                      |
+| 07  | To Do List                           | Task management app with add, edit and delete functionality                          |
+| 08  | Tic Tac Toe Game                     | Classic X and O game for two players                                                 |
+| 09  | BMI Calculator                       | Body Mass Index calculator with health indicators                                    |
+| 10  | Currency Converter                   | Real-time currency conversion tool                                                   |
+| 11  | BMR Calculator                       | Basal Metabolic Rate calculator for fitness tracking                                 |
+| 12  | Superhero Search                     | Search engine for superhero information                                              |
+| 13  | Expense Tracker                      | Personal finance tracker with categorization                                         |
+| 14  | Typing Speed Test                    | Tool to measure typing speed and accuracy                                            |
+| 15  | Face Detector                        | Image processing app for facial recognition                                          |
+| 16  | Quote Generator                      | Random inspirational quote generator                                                 |
+| 17  | Password Generator                   | Secure password creation tool with options                                           |
+| 18  | Image Color Picker                   | Tool to extract color values from images                                             |
+| 19  | Tetris Game                          | Classic block-stacking puzzle game                                                   |
+| 20  | Tip Calculator                       | Restaurant bill and tip calculator                                                   |
+| 21  | Image Slider                         | Responsive image carousel with controls                                              |
+| 22  | Rock Paper Scissors Game             | Interactive game against the computer                                                |
+| 23  | Color Palette Generator              | Tool to create harmonious color schemes                                              |
+| 24  | Music Player App                     | Audio player with playlist functionality                                             |
+| 25  | Text Editor                          | Simple text editor with formatting options                                           |
+| 26  | 2048 Game                            | Popular sliding number puzzle game                                                   |
+| 27  | JSON Reader App                      | Tool for viewing and parsing JSON data                                               |
+| 28  | Palindrome Checker                   | Tool to check if text reads the same forward and backward                            |
+| 29  | Pyramid Generator                    | Customizable ASCII art pyramid generator                                             |
+| 30  | Gradebook App                        | Student and teacher interface for grade management                                   |
+| 31  | Dragon Repeller                      | Text-based RPG adventure game with combat system                                     |
+| 32  | Background Color Generator           | Professional color generator with palette creation system                            |
+| 33  | Calorie Counter                      | Daily nutrition tracker with meal breakdown and insights                             |
+| 34  | Rock, Paper, Scissors, Lizard, Spock | Expanded version of the classic game with modern UI and additional options           |
+| 35  | Date Formatter                       | Advanced date and time utility with multiple formats and real-time display           |
+| 36  | Football Team Cards                  | Interactive display of team player cards with filtering and statistics               |
+| 37  | Advanced Todo App                    | Professional task manager with categories, priorities, drag-and-drop, and dark theme |
 
 ## 📝 License
 
