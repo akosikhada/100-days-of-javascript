@@ -195,6 +195,7 @@ This collection features diverse JavaScript projects ranging from basic utilitie
 | 36  | [Football Team Cards](#day-36-football-team-cards)                               | Interactive display of team roster with filterable player cards and position-based styling   | 🔷    |
 | 37  | [Advanced Todo App](#day-37-advanced-todo-app)                                   | Feature-rich task manager with categories, priorities, drag & drop, and undo/redo            | 🔷    |
 | 38  | [Advanced Music Player](#day-38-advanced-music-player)                           | Elegant music player with playlists, visualizer, and comprehensive playback controls         | 🔶    |
+| 39  | [Decimal to Binary Converter](#day-39-decimal-to-binary-converter)               | Interactive converter with recursive call stack visualization and educational animations     | 🔷    |
 
 > **Click on any project name to jump to its detailed description.**
 
@@ -2151,6 +2152,58 @@ An elegant music player with playlists, visualizer, and comprehensive playback c
 
 ![Advanced Music Player Screenshot](assets/project-screenshots/38-advanced-music-player.webp)
 _The advanced music player showing album art, audio visualization, playlist management, and comprehensive playback controls with equalizer._
+
+</details>
+
+<a id="day-39-decimal-to-binary-converter"></a>
+
+<details>
+<summary><b>Day 39: Decimal to Binary Converter</b></summary>
+
+### 📝 Description
+
+An interactive web application that demonstrates the process of converting decimal numbers to binary using recursion. This educational tool not only performs the conversion but visualizes the recursive call stack to help users understand how recursion works in practice.
+
+### 🛠️ Tech Stack
+
+- HTML5: Semantic markup for better accessibility
+- CSS3: Modern dark theme with variables and responsive design
+- JavaScript (ES6+): Recursive algorithm and animation logic
+
+### ✨ Key Features
+
+- Convert any positive decimal number to its binary representation
+- Step-by-step recursive call stack visualization for educational purposes
+- Modern, responsive dark theme with subtle gradients and animations
+- Special animation for the example case of number 5
+- Simple visualization for all other number conversions
+- Error handling for invalid inputs
+- Keyboard and button input support
+
+### 🧠 What I Learned
+
+- Implementing and visualizing recursive algorithms
+- Creating step-by-step animations to illustrate programming concepts
+- Designing educational interfaces that make complex topics understandable
+- Building responsive layouts with modern CSS features
+- Using CSS variables for theme consistency
+- Creating accessible web applications
+
+### 🚀 Challenges & Future Improvements
+
+- **Challenge:** Visualizing the recursive call stack in an intuitive way
+- **Challenge:** Creating smooth animations that clearly demonstrate the concept
+- **Challenge:** Making a technical concept engaging and understandable
+- **Future Improvement:** Add conversion from binary to decimal
+- **Future Improvement:** Support for other number systems (octal, hexadecimal)
+- **Future Improvement:** Adjustable animation speed
+- **Future Improvement:** Create a more detailed step-through debugger-like visualization
+- **Future Improvement:** Add dark/light theme toggle
+
+### 📸 Screenshot
+
+![Decimal to Binary Converter Screenshot](assets/project-screenshots/39-decimal-to-binary-converter.webp)
+_The Decimal to Binary Converter showing the input area, conversion result, and call stack visualization for the recursive algorithm._
 
 </details>
 
